@@ -1,0 +1,10 @@
+ matplotlib
+ tables
+ numpy
+ scipy
+ scikit-learn
+ pandas
+ mne
+ tvb-data
+ tvb-library
+ tvb-framework
